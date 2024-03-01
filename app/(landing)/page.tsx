@@ -1,6 +1,7 @@
 import { LandingNavbar } from "@/components/landing-navbar";
 import { LandingHero } from "@/components/landing-hero";
 import { LandingContent } from "@/components/landing-content";
+import Footer from "@/components/footer";
 //import { LandingPricing } from "@/components/landing-pricing";
 
 const LandingPage = () => {
@@ -9,7 +10,7 @@ const LandingPage = () => {
       <LandingNavbar />
       <LandingHero />
       <LandingContent />
-      {/* <LandingPricing /> */}
+      <Footer />
     </div>
   );
 };
