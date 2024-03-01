@@ -80,7 +80,7 @@ const Sidebar = ({ apiLimitCount = 0, isPro = false }: SidebarProps) => {
             <Image fill alt="" src="/logo.png" />
           </div>
           <h1 className={cn("text-2xl font-bold", montserrat.className)}>
-            Everything AI
+            CerebralAI
           </h1>
         </Link>
         <div className="space-y-1">
