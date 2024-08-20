@@ -8,7 +8,7 @@ export const LandingContent = () => {
   return (
     <div className="px-10 pb-20">
       <h2 className="text-center text-4xl text-white font-extrabold mb-10">
-        Pricing
+        Pricing testing the commit - secong stage?
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <Card className="bg-[#192339] border-none text-white">
